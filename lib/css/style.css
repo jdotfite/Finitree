@@ -196,6 +196,7 @@ footer {
 
 #home {
 	margin-bottom:60px;
+	background-position: center; 
 }
 .callout {
 	margin:60px 0;
@@ -233,9 +234,11 @@ hr.style {
 
 #cafe {
 	background-image: url("/lib/img/bkg/cafe.jpg");
+	background-position: center; 
 }
 #cake {
 	background-image: url("/lib/img/bkg/cake.jpg");
+	background-position: center; 
 }
 .callout {
 	background-color: #222;
