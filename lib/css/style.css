@@ -81,10 +81,10 @@ h5 {
 /*---------Footer---------------*/
 footer {
 	background:#826d1d;
-	padding:30px;
+	padding:60px;
 	color:#fff;
 }
-.copyright {
+.copyright { 
 	text-align:center;
 }
 .copyright p {
