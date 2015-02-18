@@ -30,11 +30,11 @@ h5 {
 /*-----------Header-------------*/
 
 .header {
-	background:#04382d;
-	border-bottom:3px solid #05181c;
+	background:#d6ca9a;
+	border-bottom:2px solid #826d1d;
 }
 .navbar-inverse {
-	background-color: #04382d;
+	background-color: #d6ca9a;
 }
 .navbar-inverse .navbar-brand {
 	color: #fefefe;
@@ -210,7 +210,7 @@ a.social:hover {
 }
 .module-image {
 	background-color: #222;
-	background-image: url("/lib/img/bkg/cafe-sign.jpg");
+	background-image: url("/lib/img/bkg/pies.jpg");
 	background-repeat: no-repeat;
 	position: relative;
 	z-index: 1;
